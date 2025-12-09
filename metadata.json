@@ -1,0 +1,5 @@
+{
+  "name": "ChainGuard: Supply Chain Verifier - Advancement",
+  "description": "A secure supply chain verification system featuring a custom lightweight blockchain, Merkle Tree visualization, and ECDSA identity verification. Includes an AI-powered audit assistant.",
+  "requestFramePermissions": []
+}
